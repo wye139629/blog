@@ -87,7 +87,7 @@ const element = (
   </div>
 )
 ```
-這個時候看一下畫面，會發現好像成功了，但 console 卻有錯誤跑出來，並貼心的告訴我們瀏覽器看不懂 <message> ，可以將 m 換成大寫。這是什麼原因呢？這個時候再去打開 head 中的 script 就會發現 Babel 轉換成的結果會是
+這個時候看一下畫面，會發現好像成功了，但 console 卻有錯誤跑出來，並貼心的告訴我們瀏覽器看不懂 ```<message>``` ，可以將 m 換成大寫。這是什麼原因呢？這個時候再去打開 head 中的 script 就會發現 Babel 轉換成的結果會是
 ```
 React.createElemnet('message', null, 'black cat')
 ```
