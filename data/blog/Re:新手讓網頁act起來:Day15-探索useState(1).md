@@ -6,7 +6,7 @@ draft: false
 summary: '經過前面幾篇基礎介紹，應該對 useState 與 useEffect 有一定程度的認識，俗話說：「打鐵要趁熱」，在繼續介紹其他的 Hooks 之前，這兩天我們就透過之前所學來刻一個 useState ，藉由這個機會來更加了解這個 hook。'
 images: []
 ---
-# ### 前言
+### 前言
 經過前面幾篇基礎介紹，應該對 useState 與 useEffect 有一定程度的認識，俗話說：「打鐵要趁熱」，在繼續介紹其他的 Hooks 之前，這兩天我們就透過之前所學來刻一個 useState ，藉由這個機會來更加了解這個 hook。
 
 ### myUseState
