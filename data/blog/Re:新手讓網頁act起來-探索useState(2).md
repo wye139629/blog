@@ -1,6 +1,6 @@
 ---
 title: 'Re: 新手讓網頁 act 起來 - 探索 useState (2)'
-date: '2021-09-23'
+date: '2021-10-01'
 tags: ['React', 'JavaScript']
 draft: false
 summary: '昨天我們成功的完成一個超簡略版的 myUseState ，今天就讓我們再來把它寫完整一點吧！'
