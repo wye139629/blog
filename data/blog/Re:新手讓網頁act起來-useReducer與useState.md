@@ -1,5 +1,5 @@
 ---
-title: 'Re: 新手讓網頁 act 起來 - useReducer vs useState'
+title: 'Re: 新手讓網頁 act 起來 - useReducer 與 useState'
 date: '2021-10-06'
 tags: ['React', 'JavaScript']
 draft: false
@@ -103,8 +103,8 @@ const App = () => {
   return // 一些 UI Layout
 }
 ```
-使用 useReducer
 
+使用 useReducer
 ```javascript
 function reducer(state, action){
   switch (action.type) {
