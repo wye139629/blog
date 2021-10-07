@@ -1,5 +1,5 @@
 ---
-title: 'Re: 新手讓網頁 act 起來 - Reack Hooks 之 useCallback'
+title: 'Re: 新手讓網頁 act 起來 - React Hooks 之 useCallback'
 date: '2021-10-07'
 tags: ['React', 'JavaScript']
 draft: false
