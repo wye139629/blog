@@ -3,7 +3,7 @@ title: 'Re: 新手讓網頁 act 起來 - React Hooks 之 useCallback'
 date: '2021-10-07'
 tags: ['React', 'JavaScript']
 draft: false
-summary: 'key 是 React element 中的一個屬性，相信很多人在撰寫 React 的時候都會遇到沒有給 key 的錯誤訊息。究竟為什麼會有這個錯誤訊息呢？ 就讓我們來一起來了解 key 的基本概念吧！'
+summary: 'useCallback 常常會被用來優化效能，減少 React 不必要的 render ，但如果沒有好好理解它，濫用 useCallback 的話反而會導致效能更差。今天就讓我們來了解一下 useCallback 的基本用法，跟使用時機吧！'
 images: []
 ---
 ### 前言
