@@ -3,7 +3,7 @@ title: 'Re: 新手讓網頁 act 起來 - Error boundary'
 date: '2021-10-13'
 tags: ['React', 'JavaScript']
 draft: false
-summary: 'key 是 React element 中的一個屬性，相信很多人在撰寫 React 的時候都會遇到沒有給 key 的錯誤訊息。究竟為什麼會有這個錯誤訊息呢？ 就讓我們來一起來了解 key 的基本概念吧！'
+summary: '在開發的過程中，難免會有些疏失而導致程式出現錯誤，最終畫面呈現一片空白。而在 React 的時候都會遇到沒有給 key 的錯誤訊息。究竟為什麼會有這個錯誤訊息呢？ 就讓我們來一起來了解 key 的基本概念吧！'
 images: []
 ---
 ### 前言
